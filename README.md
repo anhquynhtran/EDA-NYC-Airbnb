@@ -48,4 +48,12 @@ Now, let us take a closer look at the price distribution across the New York Cit
   The next step is to explore the review trend over the year to see how fast Airbnb has been growing. Overall, the review trend reflects the increasing demand for Airbnb over the past 10 years. The annual growth rate is roughly 40%. Additionally, there is a ‘wave’ in the graph, indicated that there is a seasonal demand for short-term rental. 
      ![alt text](https://github.com/anhquynhtran/EDA-NYC-Airbnb/blob/master/Demand%20Trend.png)
 
+Similarly, let us learn more about the annual price trend. Due to limitation in the availability of data, I can only perform the price trend for 2019. It seems like the best time to travel to New York City is in January, when the price and demand are at their lowest points. There is a peak in August (when the holiday season started) and New Year Eve. 
+     ![alt text](https://github.com/anhquynhtran/EDA-NYC-Airbnb/blob/master/Price%20Trend.png)
+
+**3.	Reviews – the voice of customers**
+
+Customers’ reviews provide tremendous insight into what customers like and dislike. In this section, I utilize the power of wordcloud to see what keywords are featured frequently. I take 1,000 random reviews to perform this analysis. Most frequently mentioned keywords such as “Times Square”, “Central Park”, “Columbus Circle”, “great location”, “subway” and “walking distance” indicate that customers strongly emphasize on the importance of location and connectivity to the top attractions. “Great hosts” and “great place” – nice and comfy accommodation – also play an important role in shaping customers’ experience. 
+ ![alt text](https://github.com/anhquynhtran/EDA-NYC-Airbnb/blob/master/Word%20Cloud.png)
+
   
