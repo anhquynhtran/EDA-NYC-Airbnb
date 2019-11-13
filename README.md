@@ -16,3 +16,4 @@ There are no available data for booking activity, so I will use review activity 
 **1.	Hosts and listings**
 
   Airbnb’s business model connects hosts who rent out their private property to short-term subletters. Assuming that most listings are non-licensed, we expect that the majority of the listing are private or shared room which allows host to continue living in her own home. The graph below is in line with our expectations:
+  ![alt text](http://url/to/listings per host.png)
