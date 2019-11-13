@@ -3,3 +3,7 @@
 
   In this notebook, I will perform an exploratory data analysis over the Airbnb dataset to gain understanding of the short-term rental scene in New York city.  
 
+**Description of Data: 
+
+Airbnb does not publish any raw dataset; however, publicly available information was scraped from the company’s website and published on InsiderAirbnb. The data used in this analysis was scraped on June 3rd, 2019. I will use the following datasets my analysis:  
+
