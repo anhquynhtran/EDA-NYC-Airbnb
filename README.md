@@ -40,3 +40,5 @@ In this section, I will dive deeper into price and booking activity analysis for
   ![alt text](https://github.com/anhquynhtran/EDA-NYC-Airbnb/blob/master/Distribution%20of%20Price.png)
 
    
+Now, let us take a closer look at the price distribution across the New York City to see which are the most expensive areas. Generally, it is more costly to stay near Downtown Manhattan area. The most expensive neighborhoods are Tribeca, Financial District and south of Staten Island. The price range for these areas are $230 - $275. It is no surprise that Downtown Manhattan offers the most expensive properties due to its proximity to major attractions such as Times Square, the Empire State Building, Rockefeller, and many great bars and restaurants. South of Staten Island, on the other hand, offer larger and rather more luxurious rooms which can accommodate more guests as compared to smaller rooms in pre-war buildings in Manhattan or Brooklyn. 
+  ![alt text](https://github.com/anhquynhtran/EDA-NYC-Airbnb/blob/master/Choropleth%20Map.png)
