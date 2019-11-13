@@ -18,3 +18,10 @@ There are no available data for booking activity, so I will use review activity 
   Airbnb’s business model connects hosts who rent out their private property to short-term subletters. Assuming that most listings are non-licensed, we expect that the majority of the listing are private or shared room which allows host to continue living in her own home. The graph below is in line with our expectations:
  
  ![alt text](https://github.com/anhquynhtran/EDA-NYC-Airbnb/blob/master/Listings%20per%20Host.png)
+
+  There are approximately 27,000 single listings and 4,000 multiple listings. Let us explore the host with multiple listings further: 
+   ![alt text](https://github.com/anhquynhtran/EDA-NYC-Airbnb/blob/master/Top%20Hosts.png)
+   The top host listed up to 170 listings on Airbnb. These top hosts are hotel managers who rent out their condo hotel. 
+	 Now let us examine the type of accommodations in New York City. Airbnb's users do not like sharing room with others as we can see that it is only 2% of the listings. Private room – a legal type of rental in New York, captures 46% of the listings. Entire room captures 52% of the listings. This number is surprisingly high as New York state law regarding short-term
+housing stated that it is almost always illegal to rent a full apartment when the host is not present 
+for less than 30 days. 
